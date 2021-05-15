@@ -1,0 +1,2 @@
+# chineseOcrLite-phytium-staticlib
+本项目为在飞腾+银河麒麟真机下编译chineseocr_lite静态库
